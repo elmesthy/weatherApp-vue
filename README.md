@@ -1,4 +1,5 @@
 # weather-app
+weather app development using vue.js
 
 # preview
 ![Web capture_21-11-2021_214121_localhost](https://user-images.githubusercontent.com/94506212/142768149-e3152bd0-cf99-4352-996c-60b5715c88a9.jpeg)
